@@ -74,4 +74,5 @@
 
 let name1="hi world gowri";
 console.log(name1);
+console.log(name2);
 
