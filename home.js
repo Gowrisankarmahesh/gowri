@@ -72,6 +72,6 @@
 // console.log(s.splice(2,3))
 
 
-let name1="hi world";
+let name1="hi world gowri";
 console.log(name1);
 
